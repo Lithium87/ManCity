@@ -9,7 +9,6 @@ const Home = () => {
     <div className="bck_blue">
       <Featured />
       <Matches />
-      <MeetPlayers />
     </div>
   );
 };
